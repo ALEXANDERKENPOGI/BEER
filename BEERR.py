@@ -1,1 +1,1 @@
-import Beerr64.so
+import Beerr64
